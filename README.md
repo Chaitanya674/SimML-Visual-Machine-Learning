@@ -3,7 +3,7 @@ Pure Java Script based no Library. This Project Aims to visualize and make one u
 Great! With the files you have, let's update the README accordingly. Below is a README structure for your project:
 
 # Neural Network Visualization Project README
-
+![Screenshot](screenshot.png)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
